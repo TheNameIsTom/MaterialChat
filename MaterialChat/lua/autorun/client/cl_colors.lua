@@ -1,0 +1,31 @@
+--FlatUI Colours
+
+local Turquoise = Color(26,188,156 ,255)
+local Emerland = Color(46,204,113,255)
+local Peterriver = Color(52,152,219,255)
+local Amethyst = Color(52,152,219,255)
+local Wetasphalt = Color(52,73,94,255)
+local Greensea = Color(22,160,133,255)
+local Nephritis = Color(39,174,96,255)
+local Belizehole = Color(41,128,185,255)
+local Wisteria = Color(142,68,173,255)
+local Midnightblue = Color(44,62,80,255)
+local Sunflower = Color(241,196,15,255)
+local Carrot = Color(230,126,34,255)
+local Alizarin = Color(231,76,60,255)
+local Clouds = Color(236,240,241,255)
+local Concrete = Color(149,165,166,255)
+local Orange = Color(243,156,18,255)
+local Pumpkin = Color(211,84,0,255)
+local Pomegranate = Color(192,57,43,255)
+local Silver = Color(189,195,199,255)
+local Asbestos = Color(127,140,141,255)
+
+
+--Transparent Colours
+local tred                                      = Color(150,0,0,125) 
+local tblack                                    = Color(0,0,0,225)
+local tgreen                                    = Color(0,150,0,125)
+local tblue                                     = Color(0,0,150,125)
+local twhite                                     = Color(255,255,255,125)
+local trans                                     = Color(0,0,0,0)
